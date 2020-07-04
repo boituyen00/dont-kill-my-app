@@ -1,5 +1,5 @@
 ---
-name: AOSP (Pixel, Nexus...)
+name: LeEco (Pixel, Nexus , EUI , Letv...)
 manufacturer:
   - stock_android
   - google
